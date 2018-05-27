@@ -1,0 +1,11 @@
+C:\Users\LP2User\source\repos\CookieAuthDemo\CookieAuthDemo\bin\Debug\netcoreapp2.0\CookieAuthDemo.deps.json
+C:\Users\LP2User\source\repos\CookieAuthDemo\CookieAuthDemo\bin\Debug\netcoreapp2.0\CookieAuthDemo.runtimeconfig.json
+C:\Users\LP2User\source\repos\CookieAuthDemo\CookieAuthDemo\bin\Debug\netcoreapp2.0\CookieAuthDemo.runtimeconfig.dev.json
+C:\Users\LP2User\source\repos\CookieAuthDemo\CookieAuthDemo\bin\Debug\netcoreapp2.0\CookieAuthDemo.dll
+C:\Users\LP2User\source\repos\CookieAuthDemo\CookieAuthDemo\obj\Debug\netcoreapp2.0\CookieAuthDemo.csprojResolveAssemblyReference.cache
+C:\Users\LP2User\source\repos\CookieAuthDemo\CookieAuthDemo\obj\Debug\netcoreapp2.0\CookieAuthDemo.csproj.CoreCompileInputs.cache
+C:\Users\LP2User\source\repos\CookieAuthDemo\CookieAuthDemo\obj\Debug\netcoreapp2.0\CookieAuthDemo.AssemblyInfoInputs.cache
+C:\Users\LP2User\source\repos\CookieAuthDemo\CookieAuthDemo\obj\Debug\netcoreapp2.0\CookieAuthDemo.AssemblyInfo.cs
+C:\Users\LP2User\source\repos\CookieAuthDemo\CookieAuthDemo\bin\Debug\netcoreapp2.0\CookieAuthDemo.pdb
+C:\Users\LP2User\source\repos\CookieAuthDemo\CookieAuthDemo\obj\Debug\netcoreapp2.0\CookieAuthDemo.dll
+C:\Users\LP2User\source\repos\CookieAuthDemo\CookieAuthDemo\obj\Debug\netcoreapp2.0\CookieAuthDemo.pdb
